@@ -23,7 +23,7 @@ body
     color: #7289DA;
 }
 
-.embed
+.embed, .section
 {
     margin-top: 4rem;
 }
